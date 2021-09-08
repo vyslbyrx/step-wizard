@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/step-wizard/static/css/main.be876a84.chunk.css",
+    "main.js": "/step-wizard/static/js/main.5a0c9f5f.chunk.js",
+    "main.js.map": "/step-wizard/static/js/main.5a0c9f5f.chunk.js.map",
+    "runtime-main.js": "/step-wizard/static/js/runtime-main.fda75cdb.js",
+    "runtime-main.js.map": "/step-wizard/static/js/runtime-main.fda75cdb.js.map",
+    "static/js/2.289f7dd7.chunk.js": "/step-wizard/static/js/2.289f7dd7.chunk.js",
+    "static/js/2.289f7dd7.chunk.js.map": "/step-wizard/static/js/2.289f7dd7.chunk.js.map",
+    "index.html": "/step-wizard/index.html",
+    "static/css/main.be876a84.chunk.css.map": "/step-wizard/static/css/main.be876a84.chunk.css.map",
+    "static/js/2.289f7dd7.chunk.js.LICENSE.txt": "/step-wizard/static/js/2.289f7dd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda75cdb.js",
+    "static/js/2.289f7dd7.chunk.js",
+    "static/css/main.be876a84.chunk.css",
+    "static/js/main.5a0c9f5f.chunk.js"
+  ]
+}
